@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrescastro1100100
 - 👀 I’m interested in Cybersecurity and developing tools and different projects!
-- 🌱 I’m currently learning web services like APIs, React, and everything CyberSec I can handle!
+- 🌱 I’m currently learning about penetration testing at IBM as an intern!
 - 💞️ I’m looking to collaborate on anything, so feel free to contact me, I'm always down to take a challenge and always predisposed to working!
 - 📫 How to reach me > andrescastrogonzal245@outlook.com or through LinkedIn on my bio :).
 
